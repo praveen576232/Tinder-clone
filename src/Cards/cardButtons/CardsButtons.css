@@ -1,0 +1,39 @@
+.cardsButtons{
+    width: 100vw;
+   
+    position: fixed;
+    bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.cardsButtons  .MuiIconButton-root {
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0,0,0,0.3) !important;
+}
+
+.cardsButtons__repaly{
+    padding: 2.5vw !important;
+    color: #f5b748 !important;
+
+}
+.cardsButtons__close{
+    padding: 2.5vw !important;
+    color: #ec5e6f !important;
+
+}
+.cardsButtons__star{
+    padding: 2.5vw !important;
+    color: #62b4f9 !important;
+
+}
+.cardsButtons__favorite{
+    padding: 2.5vw !important;
+    color: #76e2b3 !important;
+
+}
+.cardsButtons__falsh{
+    padding: 2.5vw !important;
+    color: #915dd1 !important;
+
+}
